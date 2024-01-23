@@ -3,11 +3,10 @@
 This web application harnesses the power of machine learning. Users can register or log in, upload a skin image, and receive instant, accurate skin disease predictions and diagnosis. Using state-of-the-art technology trained on verified data, DERM-ID simplifies skin health assessment.
 
 ## Features
-<h3>Accessible Preliminary Diagnosis:</h3> user-friendly web and mobile application that is easily accessible even with limited connectivity.
-Streamlined User Experience: Authentication based streamlined process that ensures quick and efficient preliminary diagnosis.
-Machine Learning at the Core: Advanced machine learning algorithms are used to accurately recognize and diagnose dermatological conditions. 
-Image Processing Expertise: leveraging state-of-the-art image processing techniques to extract essential information from uploaded images, aiding in the diagnostic process.
-Resource Optimization: Ensures that patients who require further evaluation are directed to specialists, making the best use of limited dermatological expertise.
+<h4>Accessible Preliminary Diagnosis:</h4> user-friendly web and mobile application that is easily accessible even with limited connectivity.<br>
+<h4>Streamlined User Experience:</h4> Authentication-based streamlined process that ensures quick and efficient preliminary diagnosis.<br>
+<h4>Machine Learning at the Core:</h4> Advanced machine learning algorithms are used to accurately recognize and diagnose dermatological conditions.<br> 
+<h4>Image Processing Expertise:</h4> leveraging state-of-the-art image processing techniques to extract essential information from uploaded images, aiding in the diagnostic process.<br>
 
 
 ## Ouput
