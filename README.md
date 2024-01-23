@@ -11,7 +11,7 @@ This web application harnesses the power of machine learning. Users can register
 
 ## Ouput
 
-<img width="1705" alt="SIMS Portal Landing Page" src="DERMID-image.png">
+<img width="1705" alt="Landing Page" src="DERMID-image.PNG">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
