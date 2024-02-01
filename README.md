@@ -1,4 +1,4 @@
-# DERM_ID: Dermatology Image Recognition and Diagnosis Tool
+# DERM-ID: Dermatology Image Recognition and Diagnosis Tool
 
 This web application harnesses the power of machine learning. Users can register or log in, upload a skin image, and receive instant, accurate skin disease predictions and diagnosis. Using state-of-the-art technology trained on verified data, DERM-ID simplifies skin health assessment.
 
@@ -7,12 +7,13 @@ This web application harnesses the power of machine learning. Users can register
 <h4>Streamlined User Experience:</h4> Authentication-based streamlined process that ensures quick and efficient preliminary diagnosis.<br>
 <h4>Machine Learning at the Core:</h4> Advanced machine learning algorithms are used to accurately recognize and diagnose dermatological conditions.<br> 
 <h4>Image Processing Expertise:</h4> leveraging state-of-the-art image processing techniques to extract essential information from uploaded images, aiding in the diagnostic process.<br>
-<h4>Chatbot Support: Our app has a built-in Chatbot system based on Generative AI that can resolve quick queries and frequently asked questions of the users.</h4><br>
+<h4>Chatbot Support:</h4> Our app has a built-in Chatbot system based on Generative AI that can resolve quick queries and frequently asked questions of the users.<br>
 
 
 ## Ouput
 
-<img width="1705" alt="Landing Page" src="DERMID-image.PNG">
+<img width="1705" alt="Landing Page" src="DERMID-image.PNG"><br>
+<img  width="1705" alt="Landing Page" src="Screenshot%202024-02-01%20at%201.56.53%20PM.png">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
